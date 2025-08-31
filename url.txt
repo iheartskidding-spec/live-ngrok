@@ -1,1 +1,1 @@
-https://02f0511fe22c.ngrok-free.app/test.ps1
+https://2805224977f5.ngrok-free.app/test.ps1
